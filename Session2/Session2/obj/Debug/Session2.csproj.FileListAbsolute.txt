@@ -1,0 +1,7 @@
+C:\Users\Roozbeh\source\repos\Session2\Session2\bin\Debug\Session2.exe.config
+C:\Users\Roozbeh\source\repos\Session2\Session2\bin\Debug\Session2.exe
+C:\Users\Roozbeh\source\repos\Session2\Session2\bin\Debug\Session2.pdb
+C:\Users\Roozbeh\source\repos\Session2\Session2\obj\Debug\Session2.csprojAssemblyReference.cache
+C:\Users\Roozbeh\source\repos\Session2\Session2\obj\Debug\Session2.csproj.CoreCompileInputs.cache
+C:\Users\Roozbeh\source\repos\Session2\Session2\obj\Debug\Session2.exe
+C:\Users\Roozbeh\source\repos\Session2\Session2\obj\Debug\Session2.pdb
